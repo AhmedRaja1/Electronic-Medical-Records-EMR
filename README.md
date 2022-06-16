@@ -8,6 +8,8 @@
 
 ![EMR App](https://raw.githubusercontent.com/Reliance-FYP/Electronic-Medical-Records-EMR/master/EMR.png)
 
+## Video 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/Reliance-FYP/Electronic-Medical-Records-EMR/blob/master/Open%20EMR%20Healthcare.mp4?raw=true)
 [OpenEMR](https://open-emr.org) is a Free and Open Source electronic health records and medical practice management application. It features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and a whole lot more. It runs on Windows, Linux, Mac OS X, and many other platforms.
 
 ### Contributing
